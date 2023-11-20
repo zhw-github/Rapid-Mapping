@@ -1,3 +1,3 @@
 # Rapid-Mapping
 
-## Our code will be released once the paper is accepted.
+Our code will be released once the paper is accepted.
